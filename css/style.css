@@ -1653,4 +1653,11 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0;
 }
 
+.ml-2{
+  margin-left: 10px;
+}
+.dep{
+  color: white;
+}
+
 /*# sourceMappingURL=style.css.map */
