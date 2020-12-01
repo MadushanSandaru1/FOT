@@ -161,6 +161,7 @@
 				.css('display', 'none')
 				.removeClass('animated-fast fadeInUpMenu');
 		});
+		
 
 	};
 

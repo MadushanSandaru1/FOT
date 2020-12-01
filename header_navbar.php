@@ -33,51 +33,51 @@
 							<li><a href="aboutus.php">About Us</a></li>
 							<li class="has-dropdown">
 								<a href="">Departments</a>
-								<ul class="dropdown">
-									<li><a href="#"><font color="white">Departments of ET</font></a></li>
-									<li><a href="#"><font color="white">Departments of ICT</font></a></li>
-									<li><a href="#"><font color="white">Departments of BST</font></a></li>
-									<li><a href="#"><font color="white">Departments of Multidisciplinary Studies</font></a></li>
+								<ul class="dropdown" style="margin-top:-7px;">
+									<li><a href="dep_et.php">Departments of ET</a></li>
+									<li><a href="dep_ict.php">Departments of ICT</a></li>
+									<li><a href="dep_bst.php">Departments of BST</a></li>
+									<li><a href="dep_mul.php">Departments of Multidisciplinary Studies</a></li>
 								</ul>
 							</li>
 							<li class="has-dropdown">
 								<a href="">Degree Program</a>
-								<ul class="dropdown">
-									<li><a href="#"><font color="white">Bechelor of Engineering Technology Honours</font></a></li>
-									<li><a href="#"><font color="white">Bechelor of Information Communication Technology Honours</font></a></li>
-									<li><a href="#"><font color="white">Bechelor of Biosystem Technology Honours</font></a></li>
+								<ul class="dropdown" style="margin-top:-7px;">
+									<li><a href="#">Bechelor of Engineering Technology Honours</a></li>
+									<li><a href="#">Bechelor of Information Communication Technology Honours</a></li>
+									<li><a href="#">Bechelor of Biosystem Technology Honours</a></li>
 									
 								</ul>
 							</li>
 							<li class="has-dropdown">
 								<a href="">Campus Life</a>
-								<ul class="dropdown">
-									<li><a href="#"><font color="white">Sports</font></a></li>
-									<li><a href="#"><font color="white">Career Guidance</font></a></li>
-									<li><a href="#"><font color="white">Counseling</font></a></li>
-									<li><a href="#"><font color="white">Cultural Centre</font></a></li>
-									<li><a href="#"><font color="white">Medical Facilities</font></a></li>
-									<li><a href="#"><font color="white">Accommodation</font></a></li>
+								<ul class="dropdown" style="margin-top:-7px;">
+									<li><a href="#">Sports</a></li>
+									<li><a href="#">Career Guidance</a></li>
+									<li><a href="#">Counseling</a></li>
+									<li><a href="#">Cultural Centre</a></li>
+									<li><a href="#">Medical Facilities</a></li>
+									<li><a href="#">Accommodation</a></li>
 								</ul>
 							</li>
 							<li class="has-dropdown">
 								<a href="">Students</a>
-								<ul class="dropdown">
-									<li><a href="#"><font color="white">Academic Calender</font></a></li>
-									<li><a href="#"><font color="white">Students Handbook</font></a></li>
-									<li><a href="#"><font color="white">Time Table</font></a></li>
-									<li><a href="#"><font color="white">University Library</font></a></li>
-									<li><a href="#"><font color="white">Medical Facilities</font></a></li>
-									<li><a href="#"><font color="white">LMS</font></a></li>
+								<ul class="dropdown" style="margin-top:-7px;">
+									<li><a href="#">Academic Calender</a></li>
+									<li><a href="#">Students Handbook</a></li>
+									<li><a href="#">Time Table</a></li>
+									<li><a href="#">University Library</a></li>
+									<li><a href="#">Medical Facilities</a></li>
+									<li><a href="#">LMS</a></li>
 								</ul>
 							</li>
 							<li class="has-dropdown">
 								<a href="">Staff</a>
-								<ul class="dropdown">
-									<li><a href="#"><font color="white">Staff Details</font></a></li>
-									<li><a href="#"><font color="white">Foreign Leave Request System</font></a></li>
-									<li><a href="#"><font color="white">Foreign Leave Approval System</font></a></li>
-									<li><a href="#"><font color="white">Vacancies</font></a></li>
+								<ul class="dropdown" style="margin-top:-7px;">
+									<li><a href="#" class="hov">Staff Details</a></li>
+									<li><a href="#">Foreign Leave Request System</a></li>
+									<li><a href="#">Foreign Leave Approval System</a></li>
+									<li><a href="#">Vacancies</a></li>
 									
 								</ul>
 							</li>
