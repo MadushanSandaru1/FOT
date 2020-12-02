@@ -56,6 +56,7 @@
 								Basic Sciences, Mathematics<br>Workshop Technology<br>Computer Programming<br>Electronics (Introductory)<br>
 								Electrical Systems (Introductory) and Material Engineering.
 							</p>
+							<p><a href="#">Read More</a></p>
 						</div> 
 					</div>
 				</div>
@@ -69,6 +70,7 @@
 							   Automobile Technology<br>Technical Drawing<br>Circuit Analysis<br>Instrumentation and Calibration<br>
 							   Workshop Technology.
 							</p>
+							<p><a href="#">Read More</a></p>
 						</div> 
 					</div>
 				</div>
@@ -82,6 +84,7 @@
 								Electrical Power Systems<br>Robotics, Properties of Materials<br>Renewable and Alternative Energy Technology<br>
 								Environmental Science<br>Art and Tradition<br>English<br>Accounting for Technologists<br>Safety and Risk Managements
 							</p>
+							<p><a href="#">Read More</a></p>
 						</div> 
 					</div>
 				</div>
@@ -95,6 +98,7 @@
 								Mechatronics<br>Nanotechnology<br>Bio-Medical Equipment<br>Refrigeration and Air Conditioning<br>Welding Techniques<br>
 								Design Project<br>Communication for Technologists<br>Creativity<br>Innovation and Entrepreneurship<br>Industrial Sociology
 							</p>
+							<p><a href="#">Read More</a></p>
 						</div> 
 					</div>
 				</div>

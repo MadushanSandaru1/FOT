@@ -7,9 +7,9 @@
 						<p class="site"><font color="white">www.tec.ruh.ac.lk</font></p>
 							<ul class="fh5co-social">
 								<li><a href="#">Zoom Meetings(LEARN)</a></li>
-								<li><a href="#">LMS</a></li>
+								<li><a href="lms.php">LMS</a></li>
 								<li><a href="#">TECMIS</i></a></li>
-								<li><a href="#">Library</i></a></li>
+								<li><a href="https://www.lib.ruh.ac.lk/web/index.php" target="_blank">Library</i></a></li>
 							</ul>
 							<ul class="fh5co-social">
 								<li><a href="#"><i class="icon-facebook2"></i></a></li>
@@ -43,9 +43,9 @@
 							<li class="has-dropdown">
 								<a href="">Degree Program</a>
 								<ul class="dropdown" style="margin-top:-7px;">
-									<li><a href="#">Bechelor of Engineering Technology Honours</a></li>
-									<li><a href="#">Bechelor of Information Communication Technology Honours</a></li>
-									<li><a href="#">Bechelor of Biosystem Technology Honours</a></li>
+									<li><a href="deg_et.php">Bechelor of Engineering Technology Honours</a></li>
+									<li><a href="deg_ict.php">Bechelor of Information Communication Technology Honours</a></li>
+									<li><a href="deg_bst.php">Bechelor of Biosystem Technology Honours</a></li>
 									
 								</ul>
 							</li>
@@ -63,12 +63,12 @@
 							<li class="has-dropdown">
 								<a href="">Students</a>
 								<ul class="dropdown" style="margin-top:-7px;">
-									<li><a href="#">Academic Calender</a></li>
-									<li><a href="#">Students Handbook</a></li>
+									<li><a href="academic_calender.php">Academic Calender</a></li>
+									<li><a href="resources/handbook.pdf" target="_blank">Students Handbook</a></li>
 									<li><a href="#">Time Table</a></li>
-									<li><a href="#">University Library</a></li>
+									<li><a href="https://www.lib.ruh.ac.lk/web/index.php" target="_blank">University Library</a></li>
 									<li><a href="#">Medical Facilities</a></li>
-									<li><a href="#">LMS</a></li>
+									<li><a href="lms.php">LMS</a></li>
 								</ul>
 							</li>
 							<li class="has-dropdown">
