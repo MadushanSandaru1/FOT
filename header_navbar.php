@@ -8,7 +8,7 @@
 							<ul class="fh5co-social">
 								<li><a href="#">Zoom Meetings(LEARN)</a></li>
 								<li><a href="lms.php">LMS</a></li>
-								<li><a href="#">TECMIS</i></a></li>
+								<li><a href="tecmis.php">TECMIS</i></a></li>
 								<li><a href="https://www.lib.ruh.ac.lk/web/index.php" target="_blank">Library</i></a></li>
 							</ul>
 							<ul class="fh5co-social">

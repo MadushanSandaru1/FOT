@@ -70,7 +70,7 @@
 								<i class="icon-shop"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">University Library</a></h3>
+								<h3><a href="https://www.lib.ruh.ac.lk/web/index.php">University Library</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -81,7 +81,7 @@
 								<i class="icon-heart4"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">Acadamic Calender</a></h3>
+								<h3><a href="academic_calender.php">Acadamic Calender</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -92,7 +92,7 @@
 								<i class="icon-photo"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">Handbook</a></h3>
+								<h3><a href="resources/handbook.pdf">Handbook</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -103,7 +103,7 @@
 								<i class="icon-world"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">TECMIS</a></h3>
+								<h3><a href="tecmis.php">TECMIS</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -115,7 +115,7 @@
 								<i class="icon-home-outline"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">Vecancies</a></h3>
+								<h3><a href="vecancies.php">Vecancies</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -126,7 +126,7 @@
 								<i class="icon-bubble3"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="#">News</a></h3>
+								<h3><a href="#fh5co-blog">News</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -267,20 +267,59 @@
 			</div>
 		</div>
 
-	
-
-		<div id="fh5co-register" style="background-image: url(images/img_bg_2.jpg);">
-			<div class="overlay"></div>
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 animate-box">
-					<div class="date-counter text-center">
-						<h2>Get 400 of Online Courses for Free</h2>
-						<h3>By Mike Smith</h3>
-						<div class="simply-countdown simply-countdown-one"></div>
-						<p><strong>Limited Offer, Hurry Up!</strong></p>
-						<p><a href="#" class="btn btn-primary btn-lg btn-reg">Register Now!</a></p>
+		<div id="fh5co-course-categories">
+			<div class="container">
+			<form>
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+						<h2>Contact Message</h2>
+						<p>If you have any problem or  any suggessions  please contact send to us. We are always trying to engage with you.</p>
 					</div>
 				</div>
+				<div class="row">
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							
+							<div class="desc">
+								<input type="text" name="" id="" class="form-control" placeholder="Your Name" required>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							
+							<div class="desc">
+								<input type="email" name="" id="" class="form-control" placeholder="Your email address" required>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 text-center animate-box">
+						<div class="services">
+							
+							<div class="desc">
+								<input type="text" name="" id="" class="form-control" placeholder="Your email Subject" required>
+								<p></p>
+							</div>
+						</div>
+					</div>
+				
+				</div>
+				<div class="row">
+					<div class="col-md-12 col-sm-12 text-center animate-box">
+						<div class="services">
+							
+							<div class="desc">
+								<textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Type your Message" required></textarea>
+								<p></p>
+							</div>
+							<input type="submit" value="Send Message" class="btn btn-success">
+							<input type="reset" value="Clear Message" class="btn btn-danger">
+						</div>
+					</div>
+				</div>
+			</form>	
 			</div>
 		</div>
 	
