@@ -21,7 +21,7 @@
 							<input type="password" class="form-control" placeholder="Enter your Password" required><br>
 							<input type="checkbox" name="" id=""> Remember Me<br><br>
 							<input type="submit" class="btn btn-success" value="SignIn">
-							<input type="reset" class="btn btn-danger" value="Cansel">
+							<input type="reset" class="btn btn-danger" value="Cancel">
 						</form>
 						<p><a href="#">Forgotten your username or password?</a></p>
 					</div>

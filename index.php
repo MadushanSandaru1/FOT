@@ -78,7 +78,7 @@
 					<div class="col-md-4 col-sm-6 text-center animate-box">
 						<div class="services">
 							<span class="icon">
-								<i class="icon-heart4"></i>
+							<i><img src="images/cal.png" alt=""></i>
 							</span>
 							<div class="desc">
 								<h3><a href="academic_calender.php">Acadamic Calender</a></h3>
@@ -112,10 +112,10 @@
 					<div class="col-md-4 col-sm-6 text-center animate-box">
 						<div class="services">
 							<span class="icon">
-								<i class="icon-home-outline"></i>
+								<i><img src="images/vac.png" alt=""></i>
 							</span>
 							<div class="desc">
-								<h3><a href="vecancies.php">Vecancies</a></h3>
+								<h3><a href="vecancies.php">Vacancies</a></h3>
 								<p></p>
 							</div>
 						</div>
