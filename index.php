@@ -67,7 +67,7 @@
 								<i class="icon-shop"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="https://www.lib.ruh.ac.lk/web/index.php">University Library</a></h3>
+								<h3><a href="">University Library</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -151,7 +151,7 @@
 							</div>
 							<div class="col-md-3 col-sm-6 text-center animate-box">
 								<span class="icon"><i class="icon-bulb"></i></span>
-								<span class="fh5co-counter js-counter" data-from="0" data-to="120" data-speed="5000" data-refresh-interval="50"></span>
+								<span class="fh5co-counter js-counter" data-from="0" data-to="0" data-speed="5000" data-refresh-interval="50"></span>
 								<span class="fh5co-counter-label">Passout Students</span>
 							</div>
 							<div class="col-md-3 col-sm-6 text-center animate-box">
@@ -229,7 +229,7 @@
 							<a href="#" class="blog-img-holder" style="background-image: url(images/felicit-ceremony.jpg);"></a>
 							<div class="blog-text">
 								<h3><a href="#">Felicitation Ceremony for the Founder Dean,Senior Professor W.G.D.Dharmarathne</a></h3>
-								<span class="posted_on">30th of September, 2020</span>
+								<span class="posted_on">30th of November, 2020</span>
 								<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
 								<p>Senior Prof. W.G.D Dharmarathne, the former Dean of the Faculty of Technology, University of Ruhuna retired from his position recently as the founder Dean of the Faculty of Technology and</p>
 								<p><a href="#">Read More</a></p>
@@ -253,7 +253,7 @@
 							<a href="#" class="blog-img-holder" style="background-image: url(images/drama2020.jpg"></a>
 							<div class="blog-text">
 								<h3><a href="#">Interfaculty Drama Competition - 2020</a></h3>
-								<span class="posted_on">06th of March 2020</span>
+								<span class="posted_on">06th of May 2020</span>
 								<span class="comment"><a href="">37<i class="icon-speech-bubble"></i></a></span>
 								<p>The Faculty of Technology, University of Ruhuna emerged the second runner-up of the Interfaculty Drama Competition organised by the Cultural Centre, University of Ruhuna to commemorate</p>
 								<p><a href="#">Read More</a></p>
