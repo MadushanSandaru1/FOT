@@ -68,6 +68,7 @@
 							</div>
 							<div class="form-group">
 								<input type="submit" value="Send Message" class="btn btn-success">
+								<input type="reset" value="Cancel" class="btn btn-danger">
 							</div>
 
 						</form>		

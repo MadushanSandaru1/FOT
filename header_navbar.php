@@ -23,7 +23,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
-						<div id="fh5co-logo"><a href="index.html"><img src="images/logo/RuhunaS.png" style="height: 9rem;"> Faculty of Technology</a></div>
+						<div id="fh5co-logo"><a href="index.php"><img src="images/logo/RuhunaS.png" style="height: 9rem;"> Faculty of Technology</a></div>
 					</div>
 				</div>
 				<div class="row">
