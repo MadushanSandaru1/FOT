@@ -1,3 +1,11 @@
+<?php
+    $msg ="";
+    if(isset($_POST['contact']))
+    {
+        $msg ="Contact message send successfully!";
+    }
+
+?>
 <!DOCTYPE HTML>
 <html>
 	<?php require_once('header.php');?>
@@ -266,19 +274,20 @@
 
 		<div id="fh5co-course-categories">
 			<div class="container">
-			<form>
+			<form action="index.php" method="post">
 				<div class="row animate-box">
 					<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
 						<h2>Contact Message</h2>
 						<p>If you have any problem or  any suggessions  please contact send to us. We are always trying to engage with you.</p>
 					</div>
 				</div>
+<!--                --><?php //echo $msg;?>
 				<div class="row">
 					<div class="col-md-4 col-sm-6 text-center animate-box">
 						<div class="services">
 							
 							<div class="desc">
-								<input type="text" name="" id="" class="form-control" placeholder="Your Name" required>
+								<input type="text" name="" id="name" class="form-control" placeholder="Your Name" required>
 								<p></p>
 							</div>
 						</div>
@@ -287,7 +296,7 @@
 						<div class="services">
 							
 							<div class="desc">
-								<input type="email" name="" id="" class="form-control" placeholder="Your email address" required>
+								<input type="email" name="" id="email" class="form-control" placeholder="Your email address" required>
 								<p></p>
 							</div>
 						</div>
@@ -296,7 +305,7 @@
 						<div class="services">
 							
 							<div class="desc">
-								<input type="text" name="" id="" class="form-control" placeholder="Your email Subject" required>
+								<input type="text" name="" id="emailSubject" class="form-control" placeholder="Your email Subject" required>
 								<p></p>
 							</div>
 						</div>
@@ -308,10 +317,10 @@
 						<div class="services">
 							
 							<div class="desc">
-								<textarea name="" id="" cols="30" rows="5" class="form-control" placeholder="Type your Message" required></textarea>
+								<textarea name="" id="message" cols="30" rows="5" class="form-control" placeholder="Type your Message" required></textarea>
 								<p></p>
 							</div>
-							<input type="submit" value="Send Message" class="btn btn-success">
+							<input type="submit" value="Send Message" class="btn btn-success" name="contact" data-toggle="modal" data-target="#exampleModal" onclick="setStatus()">
 							<input type="reset" value="Clear Message" class="btn btn-danger">
 						</div>
 					</div>
@@ -323,6 +332,25 @@
 
 		<?php require_once('footer.php');?>
 	</div>
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Alert</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        Contact message send successfully!.
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+<!--                        <button type="button" class="btn btn-primary">Save changes</button>-->
+                    </div>
+                </div>
+            </div>
+        </div>
 
 		<div class="gototop js-top">
 			<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
@@ -368,7 +396,23 @@
         		day: d.getDate(),
         		enableUtc: false
     		});
+
+
 		</script>
+        <script type="text/javascript">
+            function setStatus()
+            {
+                var firstname = document.getElementById('name').value;
+                var email = document.getElementById('email').value;
+                var email_sub = document.getElementById('emailSubject').value;
+                var message = document.getElementById('message').value;
+
+                if(firstname=="" || email == "" || email_sub == "" || message == "")
+                {
+                    document.getElementById("exampleModal").style.display="none";
+                }
+            }
+        </script>
 	</body>
 </html>
 
