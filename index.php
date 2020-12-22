@@ -86,7 +86,7 @@
 							<i><img src="images/cal.png" alt=""></i>
 							</span>
 							<div class="desc">
-								<h3><a href="academic_calender.php">Acadamic Calender</a></h3>
+								<h3><a href="academic_calender.php" target="_blank">Acadamic Calender</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -97,7 +97,7 @@
 								<i class="icon-photo"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="resources/handbook.pdf">Handbook</a></h3>
+								<h3><a href="resources/handbook.pdf" target="_blank">Handbook</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -108,7 +108,7 @@
 								<i class="icon-world"></i>
 							</span>
 							<div class="desc">
-								<h3><a href="tecmis.php">TECMIS</a></h3>
+								<h3><a href="tecmis.php " target="_blank">TECMIS</a></h3>
 								<p></p>
 							</div>
 						</div>
@@ -120,7 +120,7 @@
 								<i><img src="images/vac.png" alt=""></i>
 							</span>
 							<div class="desc">
-								<h3><a href="vecancies.php">Vacancies</a></h3>
+								<h3><a href="vecancies.php" target="_blank">Vacancies</a></h3>
 								<p></p>
 							</div>
 						</div>
